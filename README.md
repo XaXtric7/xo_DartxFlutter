@@ -6,6 +6,13 @@ Welcome to my Dart learning repository! This repo contains my notes, code snippe
 
 Dart is a modern, object-oriented programming language developed by Google. It is optimized for building fast applications, especially for frontend development using Flutter.
 
+## 📌 Topics Covered
+
+- Basic i/o operations
+- Usage of operators
+- If-else statements
+- Conditional statements
+
 ## 📂 Repository Contents
 
 - **Basics of Dart**: Variables, data types, operators
