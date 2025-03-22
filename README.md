@@ -12,6 +12,8 @@ Dart is a modern, object-oriented programming language developed by Google. It i
 - Usage of operators
 - If-else statements
 - Conditional statements
+- Data types in Dart
+- Usage of default functions for different datatypes
 
 ## 📂 Repository Contents
 
