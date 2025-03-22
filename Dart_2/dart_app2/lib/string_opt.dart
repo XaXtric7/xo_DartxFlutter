@@ -6,5 +6,9 @@ void main() {
   String name = stdin.readLineSync()!;
   int length = name.length;
   stdout.write("The length of $name is: $length\n");
-  stdout.write(name.isEmpty);
+  stdout.writeln(name.isEmpty);
+  stdout.writeln(
+    name.startsWith('S'),
+  ); //stdout.writeln() -> to give outputs in new line.
+  stdout.writeln(name.endsWith('K'));
 }
