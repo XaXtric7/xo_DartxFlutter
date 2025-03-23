@@ -1,5 +1,5 @@
-//Constructor
-// construct name and class name will be same
+// Constructor
+// constructor name and class name will be same
 // whenever the class is called the constructor will be called first
 // constructor doesn't return anything
 // we never create objects for the constructors
