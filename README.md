@@ -21,6 +21,7 @@ Dart is a modern, object-oriented programming language developed by Google. It i
 - Sets in dart
 - Maps in dart
 - Conditional statements
+- Switch in dart
 
 ## 📂 Repository Contents
 
